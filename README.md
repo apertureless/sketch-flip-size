@@ -14,7 +14,7 @@ FlipSize is a small Sketch plugin which swaps the width and height of an artboar
 
 ## 👈 Install with Sketchpacks
 
-[![Install FlipSize with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install FlipSize with Sketchpacks")](https://sketchpacks.com/apertureles/sketch-flip-size/install)
+[![Install FlipSize with Sketchpacks](http://sketchpacks-com.s3.amazonaws.com/assets/badges/sketchpacks-badge-install.png "Install FlipSize with Sketchpacks")](https://sketchpacks.com/apertureless/sketch-flip-size/install)
 
 1. With [Sketchpacks](https://sketchpacks.com/), search for `FlipSize
 2. Click Install
