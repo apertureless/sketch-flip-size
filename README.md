@@ -1,7 +1,7 @@
 # 🔁 FlipSize
 
 <p align="center">
-  <img src="./flipsize.gif" alt="🔁" title="🔁 Flip it!" />
+  <img src="https://i.imgur.com/KSp3rOe.gif" alt="🔁" title="🔁 Flip it!" />
 </p>
 
 
