@@ -2,7 +2,7 @@
 	"name": "🔁 FlipSize",
 	"identifier": "de.apertureless.sketch-flip-size",
 	"version": "1.0.0",
-	"description": "Flip the size of an object",
+	"description": "Flip the size of any artboard, layer or shape.",
 	"authorEmail": "jakub@posteo.de",
 	"author": "Jakub Juszczak",
 	"compatibleVersion": "41.0.0",
