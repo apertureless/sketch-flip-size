@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>FlipSize</title>
+        <link>https://raw.githubusercontent.com/apertureless/sketch-flip-size/master/appcast.xml</link>
+        <description>Flip the size of any artboard, layer or shape.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                        <li>First Release</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 04 Apr 2017 14:30:00 +0000</pubDate>
+            <enclosure url="https://github.com/apertureless/sketch-flip-size/archive/v1.0.0.zip" sparkle:version="1.0.0" length="0" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 1.1.0</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                        <li>Add Sketch 45 Plugin System for updates</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Sat, Jun 10 13:25:41 +0000</pubDate>
+            <enclosure url="https://github.com/apertureless/sketch-flip-size/archive/v1.1.0.zip" sparkle:version="1.1.0" length="0" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
