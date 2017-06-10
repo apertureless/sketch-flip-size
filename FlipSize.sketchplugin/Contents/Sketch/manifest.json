@@ -1,9 +1,9 @@
 {
 	"name": "🔁 FlipSize",
 	"identifier": "de.apertureless.sketch-flip-size",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Flip the size of any artboard, layer or shape.",
-	"appcast": "https://raw.githubusercontent.com/apertureless/sketch-flip-size/master/appcast.xml",
+	"appcast": "https://api.sketchpacks.com/v1/plugins/de.apertureless.sketch-flip-size/appcast",
 	"authorEmail": "jakub@posteo.de",
 	"author": "Jakub Juszczak",
 	"compatibleVersion": "41.0.0",
